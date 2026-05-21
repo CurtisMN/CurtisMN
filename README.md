@@ -13,7 +13,3 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-00B4E0?style=flat&logo=launchdarkly&logoColor=white)
-
----
-
-![CurtisMN's GitHub stats](https://github-readme-stats.vercel.app/api?username=CurtisMN&show_icons=true&theme=dark&hide_border=true)
